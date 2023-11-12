@@ -1,0 +1,22 @@
+C:\Users\ttt\Downloads\coursework\chessgame\bin\Debug\net6.0\chessgame.deps.json
+C:\Users\ttt\Downloads\coursework\chessgame\bin\Debug\net6.0\chessgame.dll
+C:\Users\ttt\Downloads\coursework\chessgame\bin\Debug\net6.0\chessgame.pdb
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.AssemblyInfoInputs.cache
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.AssemblyInfo.cs
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.csproj.CoreCompileInputs.cache
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.dll
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\refint\chessgame.dll
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\chessgame.pdb
+C:\Users\ttt\Downloads\coursework\chessgame\obj\Debug\net6.0\ref\chessgame.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\bin\Debug\net6.0\chessgame.deps.json
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\bin\Debug\net6.0\chessgame.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\bin\Debug\net6.0\chessgame.pdb
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.GeneratedMSBuildEditorConfig.editorconfig
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.AssemblyInfoInputs.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.AssemblyInfo.cs
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.csproj.CoreCompileInputs.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\refint\chessgame.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\chessgame.pdb
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessgame\obj\Debug\net6.0\ref\chessgame.dll

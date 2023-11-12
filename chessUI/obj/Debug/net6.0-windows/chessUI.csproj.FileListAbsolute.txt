@@ -1,0 +1,48 @@
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.exe
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.deps.json
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.runtimeconfig.json
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.dll
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.pdb
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessgame.dll
+C:\Users\ttt\Downloads\coursework\chessUI\bin\Debug\net6.0-windows\chessgame.pdb
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.AssemblyReference.cache
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI_MarkupCompile.cache
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI_MarkupCompile.lref
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.g.resources
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.AssemblyInfoInputs.cache
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.AssemblyInfo.cs
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.CoreCompileInputs.cache
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.CopyComplete
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.dll
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\refint\chessUI.dll
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.pdb
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.genruntimeconfig.cache
+C:\Users\ttt\Downloads\coursework\chessUI\obj\Debug\net6.0-windows\ref\chessUI.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.exe
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.deps.json
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.runtimeconfig.json
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessUI.pdb
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessgame.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\bin\Debug\net6.0-windows\chessgame.pdb
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.AssemblyReference.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\App.g.cs
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI_MarkupCompile.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI_MarkupCompile.lref
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\MainWindow.baml
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.g.resources
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.AssemblyInfoInputs.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.AssemblyInfo.cs
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.CoreCompileInputs.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.csproj.CopyComplete
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\refint\chessUI.dll
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.pdb
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\chessUI.genruntimeconfig.cache
+E:\alevel computer science\cs,course work\software\c# part\coursework\chessUI\obj\Debug\net6.0-windows\ref\chessUI.dll

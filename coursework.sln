@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chessgame", "chessgame\chessgame.csproj", "{C9BBBFC5-D348-42A0-BFA5-DF994C7FC8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chessUI", "chessUI\chessUI.csproj", "{32D4F22A-88FB-499E-810B-BB0236BC1460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overview", "overview\overview.csproj", "{20EB6760-2F48-47F2-ABEE-B4CF7D908FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BBBFC5-D348-42A0-BFA5-DF994C7FC8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BBBFC5-D348-42A0-BFA5-DF994C7FC8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BBBFC5-D348-42A0-BFA5-DF994C7FC8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BBBFC5-D348-42A0-BFA5-DF994C7FC8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D4F22A-88FB-499E-810B-BB0236BC1460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D4F22A-88FB-499E-810B-BB0236BC1460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D4F22A-88FB-499E-810B-BB0236BC1460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D4F22A-88FB-499E-810B-BB0236BC1460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EB6760-2F48-47F2-ABEE-B4CF7D908FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EB6760-2F48-47F2-ABEE-B4CF7D908FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EB6760-2F48-47F2-ABEE-B4CF7D908FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EB6760-2F48-47F2-ABEE-B4CF7D908FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F099FC-D9FA-45F6-B7D1-3397C3518668}
+	EndGlobalSection
+EndGlobal
